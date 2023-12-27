@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "53e793e13c77b3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "00626d6ec21f6182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc25f76df0f0f43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7f986dab8c607a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "256c7dabdb5c5182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a8f5a8491bb0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "673366427b6f930f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94807cf94dd24a34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b92e6d49ff5c169f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "928a1767afdc2bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "20709f3970531be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a30bed2117e3fcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fbd9fe70393b21d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60a3bf5109a9dd1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c62d50e647030c76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "808eaca4fa6da377",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2cc25f76df0f0f43",
+  "lastOpenFiles": [
+    "Python/Python-100-Days/Day01-15/12.字符串和正则表达式.md",
+    "Python/Python-100-Days/Day01-15/06.函数和模块的使用.md",
+    "Python/Python-100-Days/番外篇/玩转PyCharm.md",
+    "Python/Python-100-Days/番外篇/那些年我们踩过的那些坑.md",
+    "Python/Python-100-Days/番外篇/res/pycharm-create-launcher.png",
+    "Python/Python-100-Days/番外篇/res/int-is-comparation.png",
+    "Python/Python-100-Days/番外篇/res/dns-configuration.png",
+    "Python/Python-100-Days/番外篇/res/create-new-repo.png",
+    "Python/Python-100-Days/番外篇/常见反爬策略及应对方案.md",
+    "Sharding/shardingsphere_docs_cn@v5.3.1@20230210.pdf",
+    "Rust/1.Rust基础/1.4复合类型/1.4.4枚举.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.2元组.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.3结构体.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.1字符串与切片.md",
+    "环境信息/环境信息.md",
+    "Rust/1.Rust基础/1.4复合类型/Untitled.md",
+    "Rust/7.附录/派生特征 trait.md",
+    "Rust/7.附录/Untitled.md",
+    "Rust/1.Rust基础/1.4复合类型/assets/image-20231226205005888.png",
+    "Rust/1.Rust基础/1.4复合类型/assets/image-20231226204906238.png",
+    "Rust/1.Rust基础/1.4复合类型/assets/image-20231226204847657.png",
+    "Rust/1.Rust基础/1.4复合类型/未命名.md",
+    "Rust/1.Rust基础/1.3所有权和借用/1.3.1所有权.md",
+    "未命名.canvas",
+    "Rust/1.Rust基础/1.3所有权和借用/1.3.2引用与借用.md",
+    "Rust/1.Rust基础/1.4复合类型/assets/image-20231225211800507.png",
+    "Rust/1.Rust基础/1.4复合类型/assets",
+    "Rust/1.Rust基础/1.4复合类型",
+    "Rust/1.Rust基础/Untitled Folder",
+    "Rust/1.Rust基础/1.3所有权和借用/assets/image-20231224203114273.png",
+    "Rust/1.Rust基础/1.3所有权和借用/1.3.2引用md",
+    "Rust/1.Rust基础/1.3所有权和借用/Untitled.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.4函数.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.3语句和表达式.md",
+    "Rust/1.Rust基础/1.3所有权和借用/assets/image-20231224200411169.png",
+    "Rust/1.Rust基础/1.3所有权和借用/assets",
+    "Rust/16.附录/运算符与符号.md",
+    "Rust/1.Rust基础/数值类型.md",
+    "Rust/16.附录/关键字.md",
+    "ETCD/etcd使用.md",
+    "ETCD/etcd部署.md",
+    "ETCD/etcd-API-en.md",
+    "磐舟/磐基组件管理平台对接.md",
+    "磐舟/磐舟交付一体化平台.pdf",
+    "Rust",
+    "环境信息",
+    "Helm.zip"
+  ]
+}

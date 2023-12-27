@@ -1,0 +1,2 @@
+#!/bin/bash
+./ab-test-tool.sh -P p.txt -H application/json -K "accessToken:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJVSUYiLCJleHAiOjE2ODAxNDE0MjcsIlBXRCI6Ijk1YTkzYTQ4YWY2Y2JkNDMwZTY3NmM3NjNjZTc3NjU4IiwiVVNFUiI6IlNpdGVjaF8xMjNAISIsImlhdCI6MTY4MDA1NTAyN30.9GE7z-wSjRVSNTVlEDaowD5Dj8kWkXJ5p3sLUux-UA0" -U "http://172.18.183.122:8998/api/gateway/getMaskStrategy"
