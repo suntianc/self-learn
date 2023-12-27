@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "53e793e13c77b3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "00626d6ec21f6182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc25f76df0f0f43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7f986dab8c607a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "256c7dabdb5c5182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a8f5a8491bb0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "673366427b6f930f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94807cf94dd24a34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b92e6d49ff5c169f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "928a1767afdc2bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "20709f3970531be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a30bed2117e3fcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fbd9fe70393b21d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60a3bf5109a9dd1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c62d50e647030c76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "808eaca4fa6da377",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d4a8f5a8491bb0fe",
+  "lastOpenFiles": [
+    "工具类/java 工具类/assets/image-20230609135218959.png",
+    "工具类/java 工具类/assets/image-20230609135039523.png",
+    "工具类/java 工具类/assets/image-20230609134817887.png",
+    "工具类/java 工具类/assets/image-20230609111515499.png",
+    "工具类/java 工具类/assets/image-20230609111401509.png",
+    "工具类/java 工具类/assets/image-20230609111028175.png",
+    "工具类/java 工具类/assets/image-20230608102028545.png",
+    "工具类/VSCode/assets/image-20230416213057023.png",
+    "工具类/VSCode/assets/image-20230416213057023-1685495338514-5.png",
+    "工具类/VSCode/assets/image-20230416212845533.png",
+    "工具类/java 工具类/assets/image-20230608101932847.png",
+    "工具类/Apache Bench/annex/execute.sh",
+    "工具类/Apache Bench/annex/ab-test-tool.sh",
+    "工具类/VSCode/VSCode ChatGpt 安装使用文档.md",
+    "工具类/java 工具类/根据Excel生成pg-sql建表语句.md",
+    "工具类/java 工具类/IDEA-EasyCode.md",
+    "工具类/java 工具类/assets",
+    "工具类/VSCode/assets",
+    "工具类/helm/Helm Wrapper java api.md",
+    "工具类/helm/helm install input.md",
+    "工具类/Apache Bench/assets",
+    "工具类/Apache Bench/Apache Bench使用手册.md",
+    "工具类/Apache Bench/ab自动化脚本.md",
+    "工具类/Apache Bench/annex",
+    "工具类/VSCode",
+    "工具类/java 工具类",
+    "工具类/helm",
+    "工具类/Apache Bench",
+    "Rust/7.附录/运算符与符号.md",
+    "Rust/7.附录/派生特征 trait.md",
+    "Rust/7.附录/关键字.md",
+    "Rust/4.最佳实践/4.2命名规范.md",
+    "Rust/1.Rust基础/1.3所有权和借用/1.3.2引用与借用.md",
+    "Rust/1.Rust基础/1.3所有权和借用/1.3.1所有权.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.4枚举.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.3结构体.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.2元组.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.1字符串与切片.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.3语句和表达式.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.4函数.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.2字符、布尔、单元类型.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.1数值类型.md",
+    "Rust/1.Rust基础/1.1变量绑定与解构/1.1变量绑定与解构.md",
+    "K8s/WSL环境通过Kind部署K8s.md",
+    "K8s/K8s部署应用-yaml.md",
+    "K8s/K8s部署应用-helm.md",
+    "未命名.canvas"
+  ]
+}
