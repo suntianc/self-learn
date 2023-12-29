@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Rust/1.Rust基础/1.6模式匹配/1.6.4全模式列表.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rust/1.Rust基础/1.6模式匹配/1.6.4全模式列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rust/1.Rust基础/1.6模式匹配/1.6.4全模式列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rust/1.Rust基础/1.6模式匹配/1.6.4全模式列表.md"
               }
             }
           },
@@ -169,6 +169,22 @@
   },
   "active": "2cc25f76df0f0f43",
   "lastOpenFiles": [
+    "Rust/1.Rust基础/1.2基本类型/1.2.3语句和表达式.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.2字符、布尔、单元类型.md",
+    "Rust/1.Rust基础/1.2基本类型/1.2.1数值类型.md",
+    "Rust/1.Rust基础/1.1变量绑定与解构/1.1变量绑定与解构.md",
+    "Rust/1.Rust基础/1.2基本类型/assets/image-20231221223847785.png",
+    "Rust/1.Rust基础/1.4复合类型/1.4.2元组.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.1字符串与切片.md",
+    "Rust/1.Rust基础/1.4复合类型/1.4.4枚举.md",
+    "Rust/1.Rust基础/1.7方法/1.7方法.md",
+    "Rust/1.Rust基础/1.7方法/assert/image-20231228221114.png",
+    "Rust/1.Rust基础/1.6模式匹配/1.6.4全模式列表.md",
+    "Rust/1.Rust基础/1.6模式匹配/1.6.3模式适用场景.md",
+    "Rust/1.Rust基础/1.7方法/assert",
+    "Rust/1.Rust基础/1.7方法",
+    "Rust/1.Rust基础/1.6模式匹配/1.6.2解构 Option.md",
+    "README.md",
     "工具类/VSCode/assets/image-20230416213057023-1685495338514-5.png",
     "工具类/VSCode/assets/image-20230416213057023.png",
     "工具类/VSCode/assets/image-20230416212845533.png",
@@ -177,9 +193,6 @@
     "工具类/VSCode/assets/image-20230416212437148.png",
     "工具类/java 工具类/assets/image-20230609135039523.png",
     "工具类/java 工具类/assets/image-20230609134817887.png",
-    "工具类/java 工具类/assets/image-20230609111515499.png",
-    "工具类/java 工具类/assets/image-20230609111401509.png",
-    "工具类/java 工具类/assets/image-20230609111028175.png",
     "工具类/Apache Bench/annex/execute.sh",
     "工具类/Apache Bench/annex/ab-test-tool.sh",
     "工具类/VSCode/VSCode ChatGpt 安装使用文档.md",
@@ -195,26 +208,13 @@
     "工具类/Apache Bench/ab自动化脚本.md",
     "工具类/VSCode",
     "工具类/java 工具类",
-    "工具类/helm",
-    "工具类/Apache Bench",
     "Rust/7.附录/运算符与符号.md",
     "Rust/7.附录/派生特征 trait.md",
     "Rust/7.附录/关键字.md",
     "Rust/4.最佳实践/4.2命名规范.md",
     "Rust/1.Rust基础/1.3所有权和借用/1.3.2引用与借用.md",
     "Rust/1.Rust基础/1.3所有权和借用/1.3.1所有权.md",
-    "Rust/1.Rust基础/1.4复合类型/1.4.4枚举.md",
     "Rust/1.Rust基础/1.4复合类型/1.4.3结构体.md",
-    "Rust/1.Rust基础/1.4复合类型/1.4.2元组.md",
-    "Rust/1.Rust基础/1.2基本类型/1.2.4函数.md",
-    "Rust/1.Rust基础/1.2基本类型/1.2.3语句和表达式.md",
-    "Rust/1.Rust基础/1.4复合类型/1.4.1字符串与切片.md",
-    "Rust/1.Rust基础/1.2基本类型/1.2.2字符、布尔、单元类型.md",
-    "Rust/1.Rust基础/1.2基本类型/1.2.1数值类型.md",
-    "Rust/1.Rust基础/1.1变量绑定与解构/1.1变量绑定与解构.md",
-    "K8s/WSL环境通过Kind部署K8s.md",
-    "K8s/K8s部署应用-yaml.md",
-    "K8s/K8s部署应用-helm.md",
     "未命名.canvas"
   ]
 }
