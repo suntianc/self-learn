@@ -1,8 +1,0 @@
-{
-  "promptDelete": false,
-  "readableLineLength": false,
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "./assets/README",
-  "defaultViewMode": "preview"
-}
